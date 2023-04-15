@@ -26,7 +26,7 @@ body {
     border: solid 1px; 
 }
 .card-body{
-    background-color: #ede8ba;
+    background-color:rgb(224, 180, 222);
     font-family: 'Cabin Condensed', sans-serif
 }
 .slide {
@@ -34,7 +34,7 @@ body {
     margin-top: 100px;
 }
 .row {
-    background-color: antiquewhite;
+    background-color: rgb(224, 180, 222);
     height: 80px;
 
 }
@@ -54,7 +54,7 @@ body {
     margin-left: 40px;
 }
 footer{
-    background-color: black;
+    color: black;
     height: 25xp;
 }
 
