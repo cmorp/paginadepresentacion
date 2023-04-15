@@ -45,7 +45,8 @@ body {
 .contacto a {
     font-size: 3rem;
     color: black;
-}/*modificar el tamaño de los iconos de bootstrap */
+}
+/*modificar el tamaño de los iconos de bootstrap */
 .iconos1{
     margin-left: 350px;
 }
